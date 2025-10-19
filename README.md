@@ -236,11 +236,6 @@ side_quests:
 
 <div align="center">
 
-### 🎵 Currently Vibing To
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-<br>
-
 ### ☕ Support My Work
 <a href="https://www.buymeacoffee.com/yourusername">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
